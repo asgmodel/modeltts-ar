@@ -1,6 +1,6 @@
 
 # restore_model: ''
-restore_model: content/drive/MyDrive/AR-SA-TTS/v1
+restore_model: content/drive/MyDrive/AR-SA-TTS/v1/states.pth
 
 # restore_model: ./checkpoints/exp_tc2_adv/states.pth
 
